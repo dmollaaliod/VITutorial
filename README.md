@@ -2,6 +2,8 @@ This repository stores material for a *tutorial on variational inference for NLP
 
 Want to host our tutorial at your location? [Contact](#contact) one of us!
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dmollaaliod/VITutorial/master)
+
 
 **Useful links**
 
